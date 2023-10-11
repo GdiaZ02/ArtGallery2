@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Art Gallery</string>
+    <string name="atenea">Atenea</string>
+    <string name="crocodile">Crocodile</string>
+    <string name="martin">Martin</string>
+    <string name="garu">Garu</string>
+    <string name="ahito">Ahito</string>
+    <string name="knucles">Knuckles</string>
+    <string name="cab">Caballeros del Zodiaco</string>
+    <string name="op">One Piece</string>
+    <string name="mm">Martin Mystery</string>
+    <string name="pucca">Pucca</string>
+    <string name="gf">Galactik Futball</string>
+    <string name="sonic">Sonic el erizo</string>
+</resources>
